@@ -1,7 +1,7 @@
 TweetCall
 =========
 
-# Tweet with your Voice. #
+## Tweet with your Voice. ##
 
 TweetCall uses Twilio, Twitter and Google to take recordings from a phonecall and Tweet that to your Twitter Account.
 
