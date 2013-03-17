@@ -46,5 +46,9 @@ Once you have these you will need to fire the details into the following files.
 
 $twillioNumber = ''; 
 
+## Setup ##
+
+Once you have all this sorted you will need to point your Twilio Number to the 'hello.php' file on your server. 
+
 Enjoy!
 
