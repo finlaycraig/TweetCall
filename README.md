@@ -9,6 +9,8 @@ TweetCall is what I used to power a research task for my final year Honours Proj
 
 Read more about my project at - http://interaction.dundee.ac.uk/~fcraig/wordpress
 
+This makes use of a few of helper libraries.
+
 Twilio is a fantastic telephony service that allows you to easily communicate between your web app and phones over voice calls and sms messages.
 One great feature which Twilio offer is recording of calls. The URL's Twilio sends back are pretty long, so running these through the GoogleURL Shortner before tweeting stops any character limit issues.
 There are a few things you will need to make this work. 
